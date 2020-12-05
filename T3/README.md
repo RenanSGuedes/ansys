@@ -26,12 +26,6 @@
     <img src="https://i.imgur.com/omJiehY.png">
 </p>
 
-# Forças internas nas barras
-
-<p align="center">
-    <img src="https://i.imgur.com/NT8XyxF.png"> 
-</p>
-
 # Tensão máxima de Von Mises
 
 <p align="center">
